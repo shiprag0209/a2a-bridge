@@ -1,0 +1,5 @@
+# Code owners are automatically requested for review when someone opens a pull request.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Add the users or teams who review and approve pull requests, e.g.:
+# *       @your-org/your-team
